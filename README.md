@@ -1,4 +1,4 @@
-# DevOps_Fast_Lab_2
+# DevOps Certificates
 
 <hr>
 
